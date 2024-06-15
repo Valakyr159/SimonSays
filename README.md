@@ -1,1 +1,1 @@
-# valakyr159.github.io
+# Simon Says game developed with JavaScript
